@@ -1,0 +1,10 @@
+﻿{
+	"name": "ErenJager",
+	"version_number": "0.9.0",
+	"website_url": "https://github.com/SDMichaud/eren-jager",
+	"description": "Adds a soundbyte that plays during Stone Titan boss spawns.",
+	"dependencies": [
+		"bbepis-BepInExPack-5.4.2108",
+		"RiskofThunder-HookGenPatcher-1.2.3"
+	]
+}
