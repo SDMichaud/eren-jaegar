@@ -1,3 +1,7 @@
+## 0.9.4
+
+- Fix dependencies
+
 ## 0.9.3
 
 - Update dependencies
