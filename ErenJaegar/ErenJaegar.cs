@@ -1,8 +1,8 @@
 using BepInEx;
 using R2API.Networking;
 using R2API.Networking.Interfaces;
-using UnityEngine.Networking;
 using UnityEngine;
+using UnityEngine.Networking;
 
 // TODO: Add AoT music for boss music
 namespace ErenJaegar
@@ -16,7 +16,7 @@ namespace ErenJaegar
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "SDMichaud";
         public const string PluginName = "ErenJaegar";
-        public const string PluginVersion = "0.9.2";
+        public const string PluginVersion = "0.9.3";
 
         // The Awake() method is run at the very start when the game is initialized.
         public void Awake()

@@ -1,3 +1,7 @@
+## 0.9.3
+
+- Update dependencies
+
 ## 0.9.2
 
 - Fixed link to github
