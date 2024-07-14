@@ -16,7 +16,7 @@ namespace ErenJaegar
         public const string PluginGUID = PluginAuthor + "." + PluginName;
         public const string PluginAuthor = "SDMichaud";
         public const string PluginName = "ErenJaegar";
-        public const string PluginVersion = "0.9.1";
+        public const string PluginVersion = "0.9.2";
 
         // The Awake() method is run at the very start when the game is initialized.
         public void Awake()
