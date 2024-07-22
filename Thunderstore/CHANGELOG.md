@@ -1,3 +1,8 @@
+## 0.9.5
+
+- Fixed bug where only host could see all Stone Titans if teleporter event spawned multiple of them
+- The mod now hooks into the teleporter event instead of Stone Titan spawn meaning Stone Titans spawned outside of the teleporter event will no longer trigger the sound
+
 ## 0.9.4
 
 - Fix dependencies
